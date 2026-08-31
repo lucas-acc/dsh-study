@@ -20,6 +20,11 @@
 - 理解应达到能够用自己的话解释概念、把论文概念对应到 DSH 源码、通过最小实验验证关键行为，并判断哪些效果可撤销、哪些外部行为只能补偿的程度。
 - 对定理先掌握结论、成立条件和工程含义；Monad、comonad、代数证明及 operational semantics 等形式化细节，只有在修改 Cordis 内核或专门学习编程语言理论时再深入。
 
+### 源码查证约定
+
+- DeepSeek Harness 的源码路径为 `/Users/lucas/Desktop/my-projects/deepseek-harness`。
+- 当用户询问代码实现问题时，优先到上述路径检查当前源码，并以实际代码为依据回答。
+
 ### 抖音内容目标
 
 - 以“让没有论文背景的观众理解 DSH 背后的原理”为目的，讲清为什么需要 Cordis，以及 temporal composability 和 spatial composability 分别解决什么问题。

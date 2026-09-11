@@ -4,6 +4,10 @@
 
 学习入口：[DSH 学习路线：工程理解与内容表达](ROADMAP.md)
 
+实战方案：[方案1：带浏览器验收的 Coding Agent](notes/source-reading/方案1-带浏览器验收的Coding-Agent.md)
+
+学习方案：[方案2：CMU 核心课程 + DSH 实验](notes/source-reading/方案2-CMU核心课程与DSH实验.md)
+
 ## 目录结构
 
 - `notes/`：学习过程中的原子笔记和源码阅读记录。

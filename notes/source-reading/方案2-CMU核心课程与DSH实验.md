@@ -110,6 +110,7 @@
 
 ## 参考入口
 
+- [DSH 实践代码与上游版本管理](DSH实践代码与上游版本管理.md)
 - [CMU 11-768 AI Agents 课程安排](https://www.cmu-agents.com/#/schedule)
 - [课程作业安排](https://www.cmu-agents.com/#/assignments)
 - [课程大纲](https://www.cmu-agents.com/#/syllabus)

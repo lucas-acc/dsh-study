@@ -8,6 +8,8 @@
 
 学习方案：[方案2：CMU 核心课程 + DSH 实验](notes/source-reading/方案2-CMU核心课程与DSH实验.md)
 
+开发约定：[DSH 实践代码与上游版本管理](notes/source-reading/DSH实践代码与上游版本管理.md)
+
 ## 目录结构
 
 - `notes/`：学习过程中的原子笔记和源码阅读记录。
